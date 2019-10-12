@@ -18,7 +18,7 @@ In participating in our VDP, we ask that you:
 - Use only the Official Channels (listed below) to discuss vulnerability information with us.
 - Keep the details of any discovered vulnerabilities confidential until they are fixed.
 - Perform testing only on in-scope systems listed above.
-- Do not access or modify our data or our users’ data, without explicit permission of the owner. Only interact with your own accounts or test accounts for security research purposes.
+- To the furthest extent possible, only interact with test accounts you own or accounts with explicit permission from the account owner.
 - If a vulnerability provides unintended access to data, do not access data beyond the minimum extent necessary to effectively demonstrate the presence of a vulnerability. If you encounter any Personally Identifiable Information (PII), Personal Healthcare Information (PHI), credit card data, or proprietary information while testing, we ask that you cease testing and submit a report immediately.
 
 ## Reporting
