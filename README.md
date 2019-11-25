@@ -16,7 +16,7 @@ In participating in our VDP, we ask that you:
 - Report any vulnerability you’ve discovered promptly.
 - Avoid violating the privacy of others, disrupting our systems, destroying data, and/or harming user experience.
 - Use only the Official Channels (listed below) to discuss vulnerability information with us.
-- Keep the details of any discovered vulnerabilities confidential until they are fixed.
+- Keep the details of any discovered vulnerabilities confidential until either they are fixed or at least 90 days have passed.
 - Perform testing only on in-scope systems listed above.
 - To the furthest extent possible, only interact with test accounts you own or accounts with explicit permission from the account owner.
 - If a vulnerability provides unintended access to data, do not access data beyond the minimum extent necessary to effectively demonstrate the presence of a vulnerability. If you encounter any Personally Identifiable Information (PII), Personal Healthcare Information (PHI), credit card data, or proprietary information while testing, we ask that you cease testing and submit a report immediately.
